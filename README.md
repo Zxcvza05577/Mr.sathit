@@ -1,20 +1,27 @@
-## 🛠️ Tech Stack & Ecosystem
+# Hi 👋, I'm Hnawny (Namnao)
+
+### Full Stack Developer & Entrepreneur
+🎯 **Computer Science / Information Technology Student at RMUTL**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hnawny&label=Profile+views&color=551a8b&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 🎓 Education & Journey
 
 <table>
   <tr>
-    <!-- คอลัมน์ซ้าย: Focus & Architecture -->
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
 
-### ⚡ Engineering Focus
-* 🏗️ **Scalable Architecture:** ออกแบบ Cloud Solutions และระบบที่รองรับ High Load
-* 🚀 **High Performance:** หลงใหลในความเร็วและประสิทธิภาพ (เลือกใช้ Bun & Elysia)
-* ⚙️ **Automation & Infra:** จัดการระบบอัตโนมัติและโครงสร้างพื้นฐานอย่างเป็นระบบ
+### 🏛️ Learning & Academic Focus
+* 🏫 ** (RMUTL ACADEMIC)**
+* 📚 **Focus Areas:** Web Application Architecture, Cloud-Native Solutions, Full-Stack Integration
+* 🎯 **Current Goal:** มุ่งเน้นการพัฒนาทักษะฝั่ง Enterprise Application และ Modern DevOps Ecosystem เพื่อก้าวสู่การเป็นมืออาชีพ
 
-### 🌐 Core Capabilities
+### 🚀 Active Learning Path
 ```text
-🧑‍💻 Languages :: JavaScript, TypeScript, Bun, PHP, Python
-🎨 Frontend  :: Next.js, React, Vue.js, Vite, Tailwind CSS
-⚡ Backend   :: Express.js, Elysia, Cloudflare Workers, Socket.io
-🗄️ Databases :: MySQL, MongoDB, Firebase, MQTT
-🚀 DevOps    :: Docker, AWS, Nginx, Plesk, Linux, Vercel
-🔌 Hardware  :: ESP32, Raspberry Pi
+📘 React Native & Mobile Infrastructure  ::  Xcode, Core Features
+⚡ Advanced DevOps & Infrastructure     ::  CI/CD, Server Management
+🌐 Cloud & Edge Computing               ::  Cloudflare Workers, Serverless
