@@ -1,10 +1,10 @@
 # Hi 👋, I'm Best (Sathit)
 
 ### Full Stack Developer & Entrepreneur
-🎯 **Computer Science / Information Technology Student at RMUTL**
+🎯 **Computer Science & Information Technology Student at RMUTL**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hnawny&label=Profile+views&color=551a8b&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_views-502-551a8b?style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -16,9 +16,9 @@
     <td width="60%" valign="top">
 
 ### 🏛️ Learning & Academic Focus
-* 🏫 ** (RMUTL ACADEMIC)**
+* 🏫 **Rajamangala University of Technology Lanna (RMUTL, Chiang Mai)**
 * 📚 **Focus Areas:** Web Application Architecture, Cloud-Native Solutions, Full-Stack Integration
-* 🎯 **Current Goal:** มุ่งเน้นการพัฒนาทักษะฝั่ง Enterprise Application และ Modern DevOps Ecosystem เพื่อก้าวสู่การเป็นมืออาชีพ
+* 🎯 **Current Goal:** Concentrating on Enterprise Application development and modern DevOps ecosystems to transition into a high-performing professional.
 
 ### 🚀 Active Learning Path
 ```text
