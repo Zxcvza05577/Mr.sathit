@@ -1,10 +1,20 @@
-## 🛠️ Core Capabilities
+## 🛠️ Tech Stack & Ecosystem
 
+<table>
+  <tr>
+    <!-- คอลัมน์ซ้าย: Focus & Architecture -->
+    <td width="55%" valign="top">
+
+### ⚡ Engineering Focus
+* 🏗️ **Scalable Architecture:** ออกแบบ Cloud Solutions และระบบที่รองรับ High Load
+* 🚀 **High Performance:** หลงใหลในความเร็วและประสิทธิภาพ (เลือกใช้ Bun & Elysia)
+* ⚙️ **Automation & Infra:** จัดการระบบอัตโนมัติและโครงสร้างพื้นฐานอย่างเป็นระบบ
+
+### 🌐 Core Capabilities
 ```text
-🧑‍💻 Languages    :: JavaScript (ES6+), TypeScript, Node.js, Bun, PHP
-🌐 Frontend     :: Next.js, React, Tailwind CSS, DaisyUI
-⚡ Backend      :: Express.js, Elysia, Cloudflare Workers, Socket.io
-🗄️ Databases    :: MySQL, MongoDB, Firebase
-🚀 DevOps       :: Docker, AWS, Nginx, Plesk, Linux (Ubuntu/Debian)
-🎨 Tooling      :: Figma, Postman, Adobe Suite
-🔌 IoT          :: ESP32, Raspberry Pi
+🧑‍💻 Languages :: JavaScript, TypeScript, Bun, PHP, Python
+🎨 Frontend  :: Next.js, React, Vue.js, Vite, Tailwind CSS
+⚡ Backend   :: Express.js, Elysia, Cloudflare Workers, Socket.io
+🗄️ Databases :: MySQL, MongoDB, Firebase, MQTT
+🚀 DevOps    :: Docker, AWS, Nginx, Plesk, Linux, Vercel
+🔌 Hardware  :: ESP32, Raspberry Pi
