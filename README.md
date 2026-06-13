@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hnawny (Namnao)
+# Hi 👋, I'm Best (Sathit)
 
 ### Full Stack Developer & Entrepreneur
 🎯 **Computer Science / Information Technology Student at RMUTL**
