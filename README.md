@@ -1,7 +1,7 @@
 # Hi 👋, I'm Best (Sathit)
 
-### Full Stack Developer & Entrepreneur
-🎯 **Computer Science & Information Technology Student at RMUTL**
+### Computer Engineer & Full Stack Developer
+🎯 **Computer Engineering Student at RMUTL**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Profile_views-502-551a8b?style=flat-square" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎓 Education & Journey
+## 🎓 Education & Engineering Journey
 
 <table>
   <tr>
@@ -17,11 +17,12 @@
 
 ### 🏛️ Learning & Academic Focus
 * 🏫 **Rajamangala University of Technology Lanna (RMUTL, Chiang Mai)**
-* 📚 **Focus Areas:** Web Application Architecture, Cloud-Native Solutions, Full-Stack Integration
-* 🎯 **Current Goal:** Concentrating on Enterprise Application development and modern DevOps ecosystems to transition into a high-performing professional.
+* 📚 **Core Domain:** Computer Engineering (CPE)
+* 🔬 **Focus Areas:** Hardware-Software Co-Design, Embedded Systems Architecture, Scalable Cloud Infrastructure, Internet of Things (IoT)
+* 🎯 **Current Goal:** Bridging the gap between low-level hardware communication and high-level software ecosystems to build robust, production-ready solutions.
 
-### 🚀 Active Learning Path
+### 🚀 Active Engineering Path
 ```text
-📘 React Native & Mobile Infrastructure  ::  Xcode, Core Features
-⚡ Advanced DevOps & Infrastructure     ::  CI/CD, Server Management
-🌐 Cloud & Edge Computing               ::  Cloudflare Workers, Serverless
+⚙️ Hardware-Software Integration ::  Microcontrollers, Sensor Networks
+⚡ Advanced DevOps & Infra        ::  CI/CD Pipelines, Server Management
+🌐 Cloud & Edge Computing         ::  Cloudflare Workers, Serverless Systems
